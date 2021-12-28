@@ -5,6 +5,7 @@
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [To Do](#to-do)
 
 -------------------
 
@@ -21,3 +22,5 @@ how to run this project
 
 ## To Do
 - [ ] Add versions to technologies on README
+- [x] link To Do in Table on Contents
+- [ ] add how to launch this project
