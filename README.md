@@ -24,3 +24,6 @@ how to run this project
 - [ ] Add versions to technologies on README
 - [x] link To Do in Table on Contents
 - [ ] add how to launch this project
+- [ ] add html for functionality
+- [ ] better formula for stats variaty
+- [ ] add css for design
